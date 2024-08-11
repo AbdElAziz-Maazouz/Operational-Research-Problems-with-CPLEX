@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project provides solutions to various operational research problems using IBM's CPLEX optimization solver. The project includes implementations for several classic problems in operational research, including task assignment, frequency allocation, bin packing, game strategies, and maximum stable set problems.
+This project provides solutions to various operational research problems using IBM's CPLEX optimization solver. The project includes implementations for several classic problems in operational research, including task assignment, frequency allocation, bin packing, Knapsack Problem, and maximum stable set problems.
 
 ## Table of Contents
 
